@@ -1,0 +1,13 @@
+
+ 
+cards:
+ message: "welcome to eazy bank cards related local API"
+ contactDetails: 
+  name: "warner Doe - Developer"
+  email: "warner@eazybank.com"
+ oncallSupport:
+    - (666)555-345
+    - (666)455-435
+   
+      
+

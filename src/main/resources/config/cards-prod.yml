@@ -1,0 +1,11 @@
+
+
+
+cards:
+ message: "welcome to eazy bank cards related prod API"
+ contactDetails: 
+  name: "Bobby Aiswarya - product owner"
+  email: "bobby@eazybank.com"
+ oncallSupport:
+    - (123)392-345
+    - (123)203-435

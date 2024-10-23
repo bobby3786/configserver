@@ -1,0 +1,11 @@
+
+
+
+loans:
+ message: "welcome to eazy bank loans related prod API"
+ contactDetails: 
+  name: "Reine Aiswarya - product owner"
+  email: "aiswarya@eazybank.com"
+ oncallSupport:
+    - (453)392-345
+    - (236)203-435

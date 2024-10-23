@@ -1,0 +1,10 @@
+
+
+loans:
+ message: "welcome to eazy bank  related qa API"
+ contactDetails: 
+  name: "mahesh smitha roy - QA Lead"
+  email: "maheshsmitha@eazybank.com"
+ oncallSupport:
+    - (999)392-345
+    - (999)203-435

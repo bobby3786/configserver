@@ -1,0 +1,19 @@
+
+
+
+loans:
+ message: "welcome to eazy bank loans related local API"
+ contactDetails: 
+  name: "Jhon Doe - Developer"
+  email: "jhon@eazybank.com"
+ oncallSupport:
+    - (555)555-345
+    - (444)455-435
+    
+    
+    
+   
+     
+ 
+
+

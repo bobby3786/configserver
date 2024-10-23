@@ -1,0 +1,11 @@
+
+
+
+loans:
+ message: "welcome to eazy bank prod related qa API"
+ contactDetails: 
+  name: "smitha roy - QA Lead"
+  email: "smitha@eazybank.com"
+ oncallSupport:
+    - (666)392-345
+    - (666)203-435
